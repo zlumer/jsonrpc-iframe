@@ -1,0 +1,8 @@
+{
+  "name": "jsonrpc-iframe",
+  "version": "0.1.0",
+  "main": "index.ts",
+  "repository": "git@github.com:zlumer/jsonrpc-iframe.git",
+  "author": "zlumer <zlumer@gmail.com>",
+  "license": "MIT"
+}
