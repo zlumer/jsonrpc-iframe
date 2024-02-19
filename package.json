@@ -1,8 +1,11 @@
 {
   "name": "jsonrpc-iframe",
   "version": "0.1.0",
-  "main": "index.ts",
+  "main": "./lib/index.js",
   "repository": "git@github.com:zlumer/jsonrpc-iframe.git",
   "author": "zlumer <zlumer@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
 }
