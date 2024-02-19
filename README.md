@@ -54,6 +54,8 @@ Before actually using this library in production, we will need:
 - [ ] NPM package
 - [ ] Tests
 - [ ] Rename "Channels" to "Namespaces"
+- [ ] Rename `.subscribeUniversal()` to `.use()` or `.middleware()` or something similar
+- [ ] Add support for several layers of nesting for method calls in proxies (e.g. `requester.proxy.foo.bar.baz(1, 2, 3)`)
 
 ## Cross-origin security
 
